@@ -32,7 +32,13 @@ scroll-behavior: smooth;
   border-radius: 8px;
 }
 
-
+.doneButton{
+  background-color: red;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  font-size: medium;
+}
 
 
 
